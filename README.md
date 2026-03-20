@@ -43,13 +43,7 @@ Screenshots from development:
 ![Character](Images/photo_5301016432965522506_x.jpg)  
 *Character — protagonist sprite (pixel art).*
 
-<img src="Images/photo_5301016432965522507_w.jpg" alt="Main menu" width="240" />  
-*Main menu — UI in the Ancient Japan × Synthwave style.*
-
-<img src="Images/photo_5301016432965522508_w.jpg" alt="Test location sketch" width="240" />  
-*Early test level layout in the editor.*
-
-<img src="Images/photo_5301240707567785533_y.jpg" alt="Work in progress" width="240" />  
+<img src="Images/photo_5301240707567785533_y.jpg" alt="Work in progress" width="480" />  
 *Work in progress — Unity + code side by side.*
 
 ## Collapse-machine
