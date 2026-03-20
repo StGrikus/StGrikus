@@ -41,49 +41,20 @@ This analyzer is built to make spectrum feel “physical”: it transforms the i
 
 Screenshots from development:
 
-![Echoes-from-the-Past UI](Images/photo_5301016432965522506_x.jpg)
-![Echoes-from-the-Past scene / layout](Images/photo_5301016432965522507_w.jpg)
-![Echoes-from-the-Past editor view](Images/photo_5301016432965522508_w.jpg)
-![Echoes-from-the-Past working session](Images/photo_5301240707567785533_y.jpg)
+![Character](Images/photo_5301016432965522506_x.jpg)
+![Main menu](Images/photo_5301016432965522507_w.jpg)
+![Test location sketch](Images/photo_5301016432965522508_w.jpg)
+![Work in progress](Images/photo_5301240707567785533_y.jpg)
 
 #### Collapse-machine
 **Role:** Technical Sound Designer  
 My main “engineer-to-audio” project and a starting point for technical sound design. It’s a serious team development that enabled deeper integration of audio middleware into game logic and inspired me to build my own tools and experiments.
 
-YouTube: https://www.youtube.com/@stgrikus
+**FMOD Studio** — the interface I work in (events, routing, mixing, automation):
 
-### Build from source (Windows)
+![FMOD Studio workspace](Images/photo_5285511377688662168_y.jpg)
 
-1. Clone this repository:
-   - `git clone https://github.com/StGrikus/Audio-Spectrum-Test-Build.git`
-2. Open the solution:
-   - `System/AudioSpectrumWpf/AudioSpectrumWpf.sln`
-3. Install:
-   - .NET 8 SDK, and optionally Visual Studio 2022 / Rider with WPF support
-4. Build:
-   - `Release`, `x64`, then run `AudioSpectrumWpf`
-
-**Requirements:** Windows 10/11 x64
-
-### Portable / test build
-
-Self-contained single-folder output from the repo root.
-
-**CMD**
-- Run: `AudioSpectrum.cmd run`
-- Watch rebuilds: `AudioSpectrum.cmd watch`
-- Clean `bin`/`obj`: `AudioSpectrum.cmd clean`
-- Help: `AudioSpectrum.cmd help`
-
-**PowerShell**
-- Run: `.\AudioSpectrum.ps1 -Run`
-- If execution policy blocks scripts:
-  - `powershell -ExecutionPolicy Bypass -File .\AudioSpectrum.ps1 -Run`
-
-Output:
-- `dist/AudioSpectrum-Portable/AudioSpectrumWpf.exe`
-
-On the first run, `settings.json` is created next to the executable.
+[See what I do on YouTube](https://www.youtube.com/@stgrikus)
 
 ### License
 
