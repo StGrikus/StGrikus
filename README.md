@@ -17,7 +17,7 @@ I’m also open to collaboration and partnership offers—feel free to reach out
 
 Unlike many “visualizers” that only fake a reaction to sound, this project is a **real spectrum analyzer**. It captures system audio via **WASAPI loopback** and runs an **FFT** on the signal in real time, showing levels per frequency band.
 
-Project repo: https://github.com/StGrikus/Audio-Spectrum-Test-Build
+Project repo: `https://github.com/StGrikus/Audio-Spectrum-Test-Build`
 
 ### About the app (short)
 
