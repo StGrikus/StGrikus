@@ -41,10 +41,17 @@ This analyzer is built to make spectrum feel “physical”: it transforms the i
 
 Screenshots from development:
 
-![Character](Images/photo_5301016432965522506_x.jpg)
-![Main menu](Images/photo_5301016432965522507_w.jpg)
-![Test location sketch](Images/photo_5301016432965522508_w.jpg)
-![Work in progress](Images/photo_5301240707567785533_y.jpg)
+![Character](Images/photo_5301016432965522506_x.jpg)  
+*Character — protagonist sprite (pixel art).*
+
+<img src="Images/photo_5301016432965522507_w.jpg" alt="Main menu" width="480" />  
+*Main menu — UI in the Ancient Japan × Synthwave style.*
+
+<img src="Images/photo_5301016432965522508_w.jpg" alt="Test location sketch" width="480" />  
+*Early test level layout in the editor.*
+
+<img src="Images/photo_5301240707567785533_y.jpg" alt="Work in progress" width="480" />  
+*Work in progress — Unity + code side by side.*
 
 #### Collapse-machine
 **Role:** Technical Sound Designer  
@@ -52,7 +59,7 @@ My main “engineer-to-audio” project and a starting point for technical sound
 
 **FMOD Studio** — the interface I work in (events, routing, mixing, automation):
 
-![FMOD Studio workspace](Images/photo_5285511377688662168_y.jpg)
+<img src="Images/photo_5285511377688662168_y.jpg" alt="FMOD Studio workspace" width="480" />
 
 [See what I do on YouTube](https://www.youtube.com/@stgrikus)
 
