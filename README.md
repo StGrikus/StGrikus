@@ -43,13 +43,13 @@ Screenshots from development:
 ![Character](Images/photo_5301016432965522506_x.jpg)  
 *Character — protagonist sprite (pixel art).*
 
-<img src="Images/photo_5301016432965522507_w.jpg" alt="Main menu" width="480" />  
+<img src="Images/photo_5301016432965522507_w.jpg" alt="Main menu" width="240" />  
 *Main menu — UI in the Ancient Japan × Synthwave style.*
 
-<img src="Images/photo_5301016432965522508_w.jpg" alt="Test location sketch" width="480" />  
+<img src="Images/photo_5301016432965522508_w.jpg" alt="Test location sketch" width="240" />  
 *Early test level layout in the editor.*
 
-<img src="Images/photo_5301240707567785533_y.jpg" alt="Work in progress" width="480" />  
+<img src="Images/photo_5301240707567785533_y.jpg" alt="Work in progress" width="240" />  
 *Work in progress — Unity + code side by side.*
 
 ## Collapse-machine
@@ -57,9 +57,7 @@ Screenshots from development:
 **Role:** Technical Sound Designer  
 My main “engineer-to-audio” project and a starting point for technical sound design. It’s a serious team development that enabled deeper integration of audio middleware into game logic and inspired me to build my own tools and experiments.
 
-**FMOD Studio** — the interface I work in (events, routing, mixing, automation):
-
-<img src="Images/photo_5285511377688662168_y.jpg" alt="FMOD Studio workspace" width="480" />
+**FMOD Studio** — the interface I work in (events, routing, mixing, automation)
 
 [See what I do on YouTube](https://www.youtube.com/@stgrikus)
 
