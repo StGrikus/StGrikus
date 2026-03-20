@@ -32,9 +32,8 @@ This analyzer is built to make spectrum feel “physical”: it transforms the i
 
 ![Audio visualizer](Images/2026-03-20-05-11-31.gif)
 
-### Other projects
+## Echoes-from-the-Past
 
-#### Echoes-from-the-Past
 **Genre:** Side-scroller roguelike  
 **Setting:** Ancient Japan with a Synthwave aesthetic.  
 **Signature challenge:** all sound design and music are synthesized exclusively with **ACID V**, to keep the game aggressive and recognizable—acid, but with a “dream logic” atmosphere.
@@ -53,7 +52,8 @@ Screenshots from development:
 <img src="Images/photo_5301240707567785533_y.jpg" alt="Work in progress" width="480" />  
 *Work in progress — Unity + code side by side.*
 
-#### Collapse-machine
+## Collapse-machine
+
 **Role:** Technical Sound Designer  
 My main “engineer-to-audio” project and a starting point for technical sound design. It’s a serious team development that enabled deeper integration of audio middleware into game logic and inspired me to build my own tools and experiments.
 
