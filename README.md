@@ -38,14 +38,6 @@ This analyzer is built to make spectrum feel “physical”: it transforms the i
 **Setting:** Ancient Japan with a Synthwave aesthetic.  
 **Signature challenge:** all sound design and music are synthesized exclusively with **ACID V**, to keep the game aggressive and recognizable—acid, but with a “dream logic” atmosphere.
 
-Screenshots from development:
-
-![Character](Images/photo_5301016432965522506_x.jpg)  
-*Character — protagonist sprite (pixel art).*
-
-<img src="Images/photo_5301240707567785533_y.jpg" alt="Work in progress" width="480" />  
-*Work in progress — Unity + code side by side.*
-
 ## Collapse-machine
 
 **Role:** Technical Sound Designer  
