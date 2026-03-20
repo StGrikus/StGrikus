@@ -56,10 +56,6 @@ My main “engineer-to-audio” project and a starting point for technical sound
 
 [See what I do on YouTube](https://www.youtube.com/@stgrikus)
 
-### License
-
-This software is proprietary. All rights reserved.
-
 ### Links
 
 - [Instagram — @stgrikus](https://www.instagram.com/stgrikus/)
