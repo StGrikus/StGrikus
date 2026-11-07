@@ -51,4 +51,4 @@ My main “engineer-to-audio” project and a starting point for technical sound
 
 - [Instagram — @stgrikus](https://www.instagram.com/stgrikus/)
 - [YouTube — @stgrikus](https://www.youtube.com/@stgrikus)
-- [Telegram — Rainheaded Man](https://t.me/rainheadedman)
+- [Telegram — Rainheaded Man](https://t.me/stgrikussound)
